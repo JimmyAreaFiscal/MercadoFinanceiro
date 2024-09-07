@@ -1,7 +1,3 @@
-import pandas as pd 
-import numpy as np 
-import math
-from datetime import datetime, timedelta 
 
 class Cruzamentos:
     """ Classe de funções para cruzamentos entre indicadores e/ou preços """
